@@ -1,5 +1,3 @@
-install.packages("plm")
-install.packages("splm")
 library(data.table)
 library(plm)
 library(splm)
